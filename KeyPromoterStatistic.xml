@@ -9,6 +9,30 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare File with Editor">
+        <Item>
+          <IdeaActionID>CompareFileWithEditor</IdeaActionID>
+          <ShortCut>'Alt+M'</ShortCut>
+          <Description>Compare File with Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
