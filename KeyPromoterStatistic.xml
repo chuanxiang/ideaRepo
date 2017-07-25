@@ -8,6 +8,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare with Clipboard">
+        <Item>
+          <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
+          <ShortCut>'⌘+B'</ShortCut>
+          <Description>Compare with Clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -36,6 +44,14 @@
         <Item>
           <ShortCut>'⇧⎋'</ShortCut>
           <Description>Hide</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Jump to Source</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -53,6 +69,14 @@
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestClass.main()'">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TestClass.main()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
