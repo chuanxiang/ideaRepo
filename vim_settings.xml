@@ -1,0 +1,512 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="A" line="11" column="14" filename="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" />
+    </globalmarks>
+    <filemarks>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/run.sh" timestamp="1499843551771">
+        <mark key="'" line="14" column="96" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/extensions/ext_dets_transition_to_bfw/ext_dets_transition_to_bfw.py" timestamp="1499932501355">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+      </file>
+      <file name="C:/cxbin/cxcplod.py" timestamp="1500359537804">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/extensions/__init__.py" timestamp="1499932409055">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature.story" timestamp="1499829805317">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/requirements.txt" timestamp="1499833803139">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="/a.dummy" timestamp="1500256622851">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature" timestamp="1500369458414">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="7" column="3" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/steps/steps.py" timestamp="1500368016787">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/pavement.py" timestamp="1500257661754">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="12" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/makelodP1.py" timestamp="1496800273178">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/tcg_service.py" timestamp="1500878531587">
+        <mark key="[" line="659" column="0" />
+        <mark key="]" line="659" column="0" />
+        <mark key="." line="659" column="0" />
+        <mark key="^" line="827" column="48" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/thread_base.py" timestamp="1499991057375">
+        <mark key="[" line="72" column="18" />
+        <mark key="]" line="73" column="17" />
+        <mark key="^" line="73" column="17" />
+        <mark key="." line="73" column="17" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/makelodP1.py" timestamp="1499843319578">
+        <mark key="'" line="708" column="49" />
+        <mark key="[" line="439" column="0" />
+        <mark key="]" line="439" column="26" />
+        <mark key="^" line="1320" column="22" />
+        <mark key="." line="439" column="0" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/serial_flash_ioecc.py" timestamp="1497236852192">
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="174" column="29" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="0" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/eslip.py" timestamp="1500940390874">
+        <mark key="'" line="102" column="30" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1500529127561">
+        <mark key="a" line="867" column="73" />
+        <mark key="'" line="1108" column="61" />
+        <mark key="[" line="5047" column="0" />
+        <mark key="]" line="5047" column="0" />
+        <mark key="." line="5047" column="0" />
+        <mark key="^" line="1094" column="35" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/sdbp.py" timestamp="1500940525674">
+        <mark key="'" line="121" column="50" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/pavement.py" timestamp="1499909627086">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500899310506">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/04-integration/Vagrantfile" timestamp="1496136880621">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="84" />
+        <mark key="^" line="6" column="84" />
+        <mark key="." line="6" column="84" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/unit/util_test.py" timestamp="1499856602536">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="43" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" timestamp="1500877327091">
+        <mark key="a" line="14" column="17" />
+        <mark key="'" line="100" column="0" />
+        <mark key="j" line="17" column="17" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="67" />
+        <mark key="m" line="11" column="17" />
+        <mark key="^" line="50" column="11" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="C:/cxbin/cx_create_t32_script.py" timestamp="1500530494054">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1500424793195">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+      </file>
+      <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/dets.py" timestamp="1499937764338">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="54" column="11" />
+      </file>
+      <file name="C:/cxbin/cx_run_cmd.py" timestamp="1500358911541">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="30" />
+        <mark key="^" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+      </file>
+      <file name="C:/cxbin/cxbuild.py" timestamp="1500359492332">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="C:/workspace/project/groovy_test_prj/src/test.groovy" timestamp="1500024213218">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="C:/cxbin/calc_perf_time.py" timestamp="1497504364436">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="61" column="9" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" timestamp="1500371363085">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/cxbin/cxp4co.py" timestamp="1500359546033">
+        <mark key="'" line="238" column="27" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/tcg.py" timestamp="1500257394791">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="1393" column="31" />
+        <mark key="]" line="1393" column="30" />
+        <mark key="^" line="1393" column="30" />
+        <mark key="." line="1393" column="30" />
+      </file>
+      <file name="C:/cxbin/cx_switch_python.sh" timestamp="1500940751549" />
+      <file name="C:/workspace/PyYaspp_CXL3/pylintrc" timestamp="1500858877926">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/makelodP1/makelodP1.py" timestamp="1496129235121">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="44" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="293" column="13" filename="C:/workspace/PyYaspp_CXL3/pyYaspp.py" />
+      <jump line="514" column="13" filename="C:/workspace/PyYaspp_CXL3/pyYaspp.py" />
+      <jump line="40" column="18" filename="C:/workspace/PyYaspp_CXL3/pyYaspp.py" />
+      <jump line="200" column="41" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="204" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="201" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="205" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="139" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="143" column="15" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="144" column="54" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="145" column="28" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="149" column="36" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="153" column="28" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="156" column="97" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="161" column="3" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="157" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="162" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="167" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="173" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="177" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="183" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1108" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="420" column="11" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="45" column="45" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="232" column="18" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="74" column="10" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="78" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="91" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="165" column="75" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="273" column="16" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="298" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="301" column="22" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="302" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="166" column="16" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="167" column="3" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="234" column="9" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="235" column="7" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="127" column="57" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="129" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="156" column="57" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="66" column="72" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="201" column="63" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="401" column="9" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="405" column="40" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="409" column="9" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="46" column="61" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="47" column="2" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="50" column="45" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="48" column="74" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="171" column="64" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="424" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="42" column="0" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
+      <jump line="1356" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="181" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="206" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="461" column="59" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="655" column="99" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="684" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="735" column="46" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1136" column="38" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1161" column="38" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1321" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1323" column="75" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="15" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="59" column="18" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="53" column="54" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="89" column="43" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="209" column="93" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="231" column="47" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1325" column="38" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="1201" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="19" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
+      <jump line="44" column="4" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="46" column="30" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="57" column="14" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="60" column="19" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="68" column="11" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="69" column="11" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="38" column="13" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="16" column="56" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="37" column="4" filename="C:/cxbin/cx_run_cmd.py" />
+      <jump line="6" column="34" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
+      <jump line="7" column="24" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
+      <jump line="10" column="1" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
+      <jump line="424" column="75" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1108" column="61" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="23" column="66" filename="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" />
+      <jump line="100" column="0" filename="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" />
+      <jump line="153" column="33" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="186" column="42" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="202" column="60" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="221" column="43" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="250" column="33" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="260" column="33" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="267" column="21" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="270" column="8" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="129" column="17" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="154" column="7" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="102" column="30" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
+      <jump line="121" column="50" filename="C:/workspace/PyYaspp_CXL3/sdbp.py" />
+    </jumps>
+    <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHB5dGhvbjNfYW5h</text>
+      </register>
+      <register name="b" type="4">
+        <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IHB5dGhvbjNfYW5h</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0aW1lb3V0XD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEV4YW1wbGVzOiBBYmNkCiAgICAgIHwgc2NhdHRlcl9maWxlIHwgb3V0cHV0X2ZpbGUgfCBmaWxlc19mb3JfdmVyaWZpY2F0aW9uX2RpciB8CiAgICAgIHwgICAgYSAgICAgICAgIHwgICBiICAgICAgICAgfCBjICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgICAgIHwgICAgZCAgICAgICAgIHwgICBlICAgICAgICAgfCBmICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGN1cl9zZWN0aW9uLmNvbXByZXNzZWQ6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDAsICdJT0VDQyBwcm90ZWN0ZWQgZGF0YSBzaG91bGQgbm90IGJlIGNvbXByZXNzZWQnCgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIiIiCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>@step(u'Given &quot;([^&quot;]*)&quot; was provided')
+def given_group1_was_provided(step, group1):
+    assert False, 'This step must be implemented'
+
+
+@step(u'And Expected correct lod files is located in &quot;([^&quot;]*)&quot;')
+def and_expected_correct_lod_files_is_located_in_group1(step, group1):
+    assert False, 'This step must be implemented'
+
+
+@step(u'When I execute command to build LOD file from axf')
+def when_i_execute_command_to_build_lod_file_from_axf(step):
+    assert False, 'This step must be implemented'
+
+
+@step(u'Then the &quot;([^&quot;]*)&quot; should be binary same with file in verification dir.')
+def then_the_group1_should_be_binary_same_with_file_in_verification_dir(step, group1):
+    assert False, 'This step must be implemented'</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEFuZCBFeHBlY3RlZCBjb3JyZWN0IGxvZCBmaWxlcyBpcyBsb2NhdGVkIGluIHZlcmlmaWNhdGlvbiBkaXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBzdGVwKHUnR2l2ZW4gU2NhdHRlciBmaWxlICIoW14iXSopIiB3YXMgcHJvdmlkZWQnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgfCAgICBmaWxlMiAgICAgfCAgIGUgICAgICAgICB8IGYgICAgICAgICAgICAgICAgICAgICAgICAgIHwKCiAgICBFeGFtcGxlczogVGVzdDIKICAgICAgfCBzY2F0dGVyX2ZpbGUgfCBvdXRwdXRfZmlsZSB8IGZpbGVzX2Zvcl92ZXJpZmljYXRpb25fZGlyIHwKICAgICAgfCAgICBmaWxlMyAgICAgfCAgIGIgICAgICAgICB8IGMgICAgICAgICAgICAgICAgICAgICAgICAgIHwKICAgICAgfCAgICBmaWxlNCAgICAgfCAgIGUgICAgICAgICB8IGYgICAgICAgICAgICAgICAgICAgICAgICAgIHwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QHN0ZXBzCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>@step(u'Given &quot;([^&quot;]*)&quot; was provided')
+def given_group1_was_provided(step, group1):
+    assert False, 'This step must be implemented'
+
+
+@step(u'And Expected correct lod files is located in &quot;([^&quot;]*)&quot;')
+def and_expected_correct_lod_files_is_located_in_group1(step, group1):
+    assert False, 'This step must be implemented'
+
+
+@step(u'When I execute command to build LOD file from axf')
+def when_i_execute_command_to_build_lod_file_from_axf(step):
+    assert False, 'This step must be implemented'
+
+
+@step(u'Then the &quot;([^&quot;]*)&quot; should be binary same with file in verification dir.')
+def then_the_group1_should_be_binary_same_with_file_in_verification_dir(step, group1):
+    assert False, 'This step must be implemented'</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDx0aW1lb3V0XD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0aW1lb3V0XD4=</last-pattern>
+      <last-replace>DETS</last-replace>
+      <last-substitute>DITS</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>line</entry>
+        <entry>line length</entry>
+        <entry>line-length</entry>
+        <entry>output=format</entry>
+        <entry>output</entry>
+        <entry>output-format</entry>
+        <entry>missing-docstring</entry>
+        <entry>missing</entry>
+        <entry>missing-doc</entry>
+        <entry>docstring</entry>
+        <entry>msg-template</entry>
+        <entry>disable</entry>
+        <entry>ancestors</entry>
+        <entry encoding="base64">XDxUY2dDbWRFbmFibGVEaXNhYmxlTWFrZXJzRmFjdG9yeVw+</entry>
+        <entry encoding="base64">XDx3aGljaFw+</entry>
+        <entry encoding="base64">XDxzdGVwXD4=</entry>
+        <entry>_send</entry>
+        <entry>_send\(</entry>
+        <entry>_send(</entry>
+        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/Bollean/Boolean/g</entry>
+        <entry>q</entry>
+        <entry>%s/DITS/DETS/g</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
