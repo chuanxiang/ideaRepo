@@ -8,6 +8,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add New Configuration">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'⌘N'</ShortCut>
+          <Description>Add New Configuration</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare with Clipboard">
         <Item>
           <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
