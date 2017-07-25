@@ -41,7 +41,7 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1500958826111">
+      <file name="/a.dummy" timestamp="1500975244941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -155,6 +155,7 @@
       <file name="/" timestamp="1500959319366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/workspace/project/gcxstudio/src/main/java/com/gcxstudio/config/SecurityConfig.java" timestamp="1500974650108" />
       <file name="C:/cxbin/cxbuild.py" timestamp="1500359492332">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="17" />
@@ -172,6 +173,12 @@
         <mark key="]" line="57" column="26" />
         <mark key="." line="57" column="26" />
         <mark key="^" line="61" column="9" />
+      </file>
+      <file name="C:/workspace/project/gcxstudio/src/main/java/com/gcxstudio/config/WebConfig.java" timestamp="1500975254510">
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="65" column="15" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="65" column="15" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" timestamp="1500371363085">
         <mark key="[" line="5" column="0" />
