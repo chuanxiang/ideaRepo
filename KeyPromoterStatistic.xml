@@ -101,7 +101,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit">
@@ -163,7 +163,15 @@
         <Item>
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Highlight Usages in File">
+        <Item>
+          <IdeaActionID>HighlightUsagesInFile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F7'</ShortCut>
+          <Description>Highlight Usages in File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -314,7 +322,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
