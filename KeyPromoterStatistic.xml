@@ -16,6 +16,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'Alt+N'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Column Selection Mode">
         <Item>
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
@@ -103,12 +111,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Go To Hash/Branch/Tag">
+        <Item>
+          <IdeaActionID>Vcs.Log.GoToRef</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Go To Hash/Branch/Tag</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Group by Directory">
         <Item>
           <IdeaActionID />
           <ShortCut>'Ctrl+P'</ShortCut>
           <Description>Group by Directory</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
@@ -194,7 +210,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show History">
@@ -202,7 +218,23 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'Alt+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History for Revision">
+        <Item>
+          <IdeaActionID>Vcs.ShowHistoryForRevision</IdeaActionID>
+          <ShortCut>'Alt+R'</ShortCut>
+          <Description>Show History for Revision</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Local Changes as UML">
+        <Item>
+          <IdeaActionID>UML.ShowChanges</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
+          <Description>Show Local Changes as UML</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -218,7 +250,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -242,7 +274,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
