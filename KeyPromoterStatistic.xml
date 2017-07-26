@@ -8,6 +8,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Column Selection Mode">
         <Item>
           <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
@@ -40,12 +48,36 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare with the Same Repository Version">
+        <Item>
+          <IdeaActionID>Compare.SameVersion</IdeaActionID>
+          <ShortCut>'Alt+Y'</ShortCut>
+          <Description>Compare with the Same Repository Version</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>PerforceDirect.Edit</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+E'</ShortCut>
+          <Description>Edit</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -68,6 +100,14 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group by Directory">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Group by Directory</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
