@@ -131,7 +131,7 @@
           <IdeaActionID>LocalHistory.PutLabel</IdeaActionID>
           <ShortCut>'Alt+L'</ShortCut>
           <Description>Put Label...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refactor This...">
@@ -155,6 +155,14 @@
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
+          <ShortCut>'Alt+H'</ShortCut>
+          <Description>Show History</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -186,7 +194,7 @@
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'Alt+Back Quote'</ShortCut>
           <Description>VCS Operations Popup...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
