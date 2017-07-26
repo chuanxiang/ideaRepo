@@ -143,10 +143,10 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501057739911">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501058923033">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
         <mark key="^" line="6" column="49" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
@@ -182,12 +182,12 @@
         <mark key="^" line="34" column="8" />
         <mark key="." line="65" column="15" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" timestamp="1501058769939">
-        <mark key="'" line="32" column="58" />
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
-        <mark key="^" line="35" column="10" />
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" timestamp="1501058906095">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="50" column="92" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="11" />
       </file>
       <file name="C:/workspace/PyYaspp_CXL3/tcg.py" timestamp="1500958683457">
         <mark key="'" line="247" column="33" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="11" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
       <jump line="45" column="45" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
       <jump line="232" column="18" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
       <jump line="74" column="10" filename="C:/workspace/PyYaspp_CXL3/pylintrc" />
@@ -314,19 +313,20 @@
       <jump line="41" column="21" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
       <jump line="11" column="10" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
       <jump line="32" column="58" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
+      <jump line="16" column="19" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaFw+</text>
