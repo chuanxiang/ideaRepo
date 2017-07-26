@@ -139,11 +139,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501050423556">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501050603849">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
         <mark key="[" line="4" column="13" />
@@ -314,19 +314,19 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>crc</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>crc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGRF9PUEFMX1NTQ19WMVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJNdXN0IGJlIG92ZXJyaWRkZW4gaW4gc3ViY2xhc3MiKQo=</text>
+        <text encoding="base64">ICAgICAgfCBjdHJscl9hcHBlbmRfY3JjLnNjZiAgfCAgIENGVy5sb2QgICB8Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -395,9 +395,9 @@
         <entry>%s/Bollean/Boolean/g</entry>
         <entry>q</entry>
         <entry>%s/DITS/DETS/g</entry>
-        <entry>wq</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
