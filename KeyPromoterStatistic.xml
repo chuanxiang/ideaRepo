@@ -3,7 +3,6 @@
     <option name="statistics">
       <Statistic Action="Add">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add</Description>
           <Count>3</Count>
@@ -51,7 +50,6 @@
       </Statistic>
       <Statistic Action="Edit Source">
         <Item>
-          <IdeaActionID />
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
           <Count>1</Count>
@@ -75,7 +73,6 @@
       </Statistic>
       <Statistic Action="Hide">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
           <Count>7</Count>
@@ -129,6 +126,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Put Label...">
+        <Item>
+          <IdeaActionID>LocalHistory.PutLabel</IdeaActionID>
+          <ShortCut>'Alt+L'</ShortCut>
+          <Description>Put Label...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
@@ -139,7 +144,6 @@
       </Statistic>
       <Statistic Action="Remove">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Delete'</ShortCut>
           <Description>Remove</Description>
           <Count>1</Count>
@@ -159,6 +163,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -182,7 +194,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -195,7 +207,6 @@
       </Statistic>
       <Statistic Action="View External Documentation">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Shift+F1'</ShortCut>
           <Description>View External Documentation</Description>
           <Count>2</Count>
