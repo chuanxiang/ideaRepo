@@ -35,7 +35,7 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1501056278379">
+      <file name="/Python Console" timestamp="1501112618951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/requirements.txt" timestamp="1499833803139">
@@ -73,6 +73,13 @@
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps.py" timestamp="1501113207472">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="12" />
+        <mark key="." line="26" column="12" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="C:/workspace/PyYaspp_CXL3/tcg_service.py" timestamp="1500878531587">
         <mark key="[" line="655" column="0" />
@@ -126,16 +133,6 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="43" />
-      </file>
-      <file name="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" timestamp="1500877327091">
-        <mark key="a" line="14" column="17" />
-        <mark key="'" line="100" column="0" />
-        <mark key="j" line="17" column="17" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="67" />
-        <mark key="m" line="11" column="17" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/cxbin/cx_create_t32_script.py" timestamp="1500530494054">
         <mark key="[" line="0" column="18" />
@@ -214,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="46" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="1136" column="38" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="1161" column="38" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="1321" column="4" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
@@ -314,61 +310,62 @@
       <jump line="5056" column="105" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="5001" column="72" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="5052" column="54" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="3" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJtX2xvZygpCg==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>comp_data</text>
+        <text>LOG_FN</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</text>
+        <text>rmdir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl9zZWN0aW9uLmxlbmd0aCA9IGxlbihjdXJfc2VjdGlvbi5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQpOgogICAgICAgIHJtdHJlZShSZXNCdWlsZEZyb21BeGYuZGlyX291dHB1dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJtX2xvZygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCAoY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0spOgo=</text>
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQpOgogICAgICAgIHJtdHJlZShSZXNCdWlsZEZyb21BeGYuZGlyX291dHB1dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3RpdmVfc2VnbWVudF9jcmMsIGVyciA9IGluY3JlbWVudGFsX2NyYyhjdXJfc2VjdGlvbi51bmNvbXByZXNzZWRfZGF0YSwgY3VyX3NlY3Rpb24udW5jb21wcmVzc2VkX2xlbmd0aCwgYWN0aXZlX3NlZ21lbnRfY3JjKQogICAgICAgICAgICAgICAgICAgIGlmIGVycjogcmV0dXJuICgwLCBlcnIpCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cl9zZWN0aW9uLmxlbmd0aCA9IGxlbihjb21wX2RhdGEpCg==</text>
+        <text encoding="base64">ZGVmIHJ1bl9jbWQoc3RyX2NtZCk6CiAgICByZXQgPSBzaChzdHJfY21kLCBUcnVlKQogICAgb3BlbihMT0dfRk4sICdhJykud3JpdGUocmV0KQoKCmRlZiBybV9sb2coKToKICAgIG9zLnVubGluayhMT0dfRk4pCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IF9tZW1jcHkoc2VsZi5kYXRhLCBkYXRhX2lvZWNjLCBsZW4oZGF0YV9pb2VjYyksIHNlbGYubGVuZ3RoKQo=</text>
+        <text encoding="base64">TE9HX0ZOID0gJ19iZGRfY21kX291dHB1dC5sb2cnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoLmFic3BhdGgoUmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpb2VjY19kYXRhID0gZ2VuZXJhdGVfaW9lY2NfZnJvbV9zdHJpbmcoY3VyX3NlY3Rpb24uZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIFJlY2FsY3VsYXRlIElPRUNDCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCAoY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0spOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIElPRUNDIGRhdGEgYmxvY2sgc2l6ZSBpcyA0SywgSU9FQ0MgY2hlY2sgd29yZCBwZXIgYmxvY2sgaXMgNCBieXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3RpdmVfc2VnbWVudF9jcmMsIGVyciA9IGluY3JlbWVudGFsX2NyYyhjdXJfc2VjdGlvbi51bmNvbXByZXNzZWRfZGF0YSwgY3VyX3NlY3Rpb24udW5jb21wcmVzc2VkX2xlbmd0aCwgYWN0aXZlX3NlZ21lbnRfY3JjKQogICAgICAgICAgICAgICAgICAgIGlmIGVycjogcmV0dXJuICgwLCBlcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</last-search>
+      <last-search>rmdir</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</last-pattern>
+      <last-pattern>rmdir</last-pattern>
       <last-replace>DETS</last-replace>
       <last-substitute>DITS</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxGRF9UUEVSXD4=</entry>
         <entry encoding="base64">XDxGRF9MT0NLSU5HXD4=</entry>
         <entry encoding="base64">XDxGRF9HRU9NRVRSWVw+</entry>
@@ -396,6 +392,7 @@
         <entry encoding="base64">XDxwYXJzZV9zZWdtZW50X3NlY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzZWRfZGF0YVw+</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</entry>
+        <entry>rmdir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bollean/Boolean/g</entry>
