@@ -162,11 +162,12 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501117706761">
-        <mark key="[" line="16" column="72" />
-        <mark key="]" line="16" column="75" />
-        <mark key="^" line="16" column="75" />
-        <mark key="." line="16" column="75" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501127000940">
+        <mark key="'" line="5" column="394" />
+        <mark key="[" line="15" column="140" />
+        <mark key="]" line="15" column="147" />
+        <mark key="^" line="15" column="147" />
+        <mark key="." line="15" column="147" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
         <mark key="[" line="4" column="13" />
@@ -246,8 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="18" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="53" column="54" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="89" column="43" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="209" column="93" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
       <jump line="231" column="47" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
@@ -346,61 +345,63 @@
       <jump line="899" column="4" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/makelodP1.py" />
       <jump line="62" column="2" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/makelodP1.py" />
       <jump line="20" column="4" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_find_replace_cmd.py" />
+      <jump line="15" column="131" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" />
+      <jump line="5" column="394" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFJlcy5yZXNldCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>iTCM_CFW_sdfwl</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>BuildFromAxf</text>
+        <text>iTCM_CFW_sdfwl</text>
       </register>
       <register name="/" type="4">
-        <text>axf=</text>
+        <text>dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJlcy5yZXNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgfCB0ZXN0L2JkZC9yZXNvdXJjZXMvYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjL0NGVy5MT0QgfCAxNzZDRDAgICAgIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICB3aGljaCBjb250YWlucyBmaW5hbC5heGYsIGZpbmFsLm1hcCwgY3RybC5zY2YuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IHJtdHJlZQo=</text>
+        <text encoding="base64">ICBtYWtlbG9kUDEucHkKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYXZlci5lYXN5IGltcG9ydCBzaAo=</text>
+        <text encoding="base64">ICBtYWtlbG9kUDEucHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUmVzOgogICAgZm5fc2NmID0gTm9uZQogICAgZGlyX3JlcyA9IE5vbmUKICAgIGRpcl9vdXRwdXQgPSAiX3Rlc3Rfb3V0cHV0IgogICAgbG9nX2ZuID0gJ19iZGRfY21kX291dHB1dC5sb2cnCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBydW5fY21kKGNscywgc3RyX2NtZCk6CiAgICAgICAgcmV0ID0gc2goc3RyX2NtZCwgVHJ1ZSkKICAgICAgICBvcGVuKGNscy5sb2dfZm4sICdhJykud3JpdGUocmV0KQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHJtX2xvZyhjbHMpOgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGNscy5sb2dfZm4pOgogICAgICAgICAgICBvcy51bmxpbmsoY2xzLmxvZ19mbikKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiByZXNldChjbHMpOgogICAgICAgIGNscy5ybV9sb2coKQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzLmRpcl9vdXRwdXQpOgogICAgICAgICAgICBybXRyZWUoUmVzLmRpcl9vdXRwdXQpCgoK</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtrawo=</text>
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IHJtdHJlZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBub3NlLnRvb2xzIGltcG9ydCBhc3NlcnRfZXF1YWwsIGFzc2VydF9mYWxzZSwgYXNzZXJ0X25vdF9lcXVhbAo=</text>
+        <text encoding="base64">ZnJvbSBwYXZlci5lYXN5IGltcG9ydCBzaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldC5ncm91cCgwKSwgcmV0Lmdyb3VwKDEpKQo=</text>
+        <text encoding="base64">Y2xhc3MgUmVzOgogICAgZm5fc2NmID0gTm9uZQogICAgZGlyX3JlcyA9IE5vbmUKICAgIGRpcl9vdXRwdXQgPSAiX3Rlc3Rfb3V0cHV0IgogICAgbG9nX2ZuID0gJ19iZGRfY21kX291dHB1dC5sb2cnCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBydW5fY21kKGNscywgc3RyX2NtZCk6CiAgICAgICAgcmV0ID0gc2goc3RyX2NtZCwgVHJ1ZSkKICAgICAgICBvcGVuKGNscy5sb2dfZm4sICdhJykud3JpdGUocmV0KQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHJtX2xvZyhjbHMpOgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGNscy5sb2dfZm4pOgogICAgICAgICAgICBvcy51bmxpbmsoY2xzLmxvZ19mbikKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiByZXNldChjbHMpOgogICAgICAgIGNscy5ybV9sb2coKQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzLmRpcl9vdXRwdXQpOgogICAgICAgICAgICBybXRyZWUoUmVzLmRpcl9vdXRwdXQpCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBub3NlLnRvb2xzIGltcG9ydCBhc3NlcnRfZXF1YWwsIGFzc2VydF9mYWxzZSwgYXNzZXJ0X25vdF9lcXVhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>axf=</last-search>
+      <last-search>dir</last-search>
       <last-offset />
-      <last-pattern>axf=</last-pattern>
+      <last-pattern>dir</last-pattern>
       <last-replace>DETS</last-replace>
       <last-substitute>DITS</last-substitute>
       <last-dir>1</last-dir>
@@ -408,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGRF9TRUNVUkVfTUVTU0FHSU5HXD4=</entry>
         <entry encoding="base64">XDxGRF9FTlRfU1NDXD4=</entry>
         <entry encoding="base64">XDxGRF9TSU5HTEVfVVNFUl9NT0RFXD4=</entry>
         <entry encoding="base64">XDxGRF9EQVRBU1RPUkVcPg==</entry>
@@ -428,6 +428,7 @@
         <entry>Can't find 'axf</entry>
         <entry>axf</entry>
         <entry>axf=</entry>
+        <entry>dir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bollean/Boolean/g</entry>
