@@ -50,10 +50,10 @@
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="/a.dummy" timestamp="1501114171411">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1501117757075">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature" timestamp="1500369458414">
         <mark key="[" line="5" column="0" />
@@ -122,12 +122,12 @@
       <file name="C:/workspace/PyYaspp_CXL3/sdbp.py" timestamp="1500943454762">
         <mark key="'" line="121" column="50" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_find_replace_cmd.py" timestamp="1501117382374">
-        <mark key="'" line="21" column="4" />
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="23" column="36" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_find_replace_cmd.py" timestamp="1501117862918">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="103" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/pavement.py" timestamp="1501055069940">
         <mark key="[" line="1" column="0" />
@@ -162,11 +162,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501116509196">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="10" column="35" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501117706761">
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+        <mark key="." line="16" column="75" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
         <mark key="[" line="4" column="13" />
@@ -183,10 +183,11 @@
       <file name="/" timestamp="1500959319366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_build_from_axf.py" timestamp="1501114247397">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="37" />
-        <mark key="." line="5" column="37" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_build_from_axf.py" timestamp="1501117873811">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="C:/cxbin/cxbuild.py" timestamp="1500359492332">
         <mark key="[" line="0" column="15" />
@@ -350,47 +351,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.groups())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFJlcy5yZXNldCgpCg==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>.groups())</text>
+        <text>BuildFromAxf</text>
       </register>
       <register name="/" type="4">
         <text>axf=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQpOgogICAgICAgIHJtdHJlZShSZXNCdWlsZEZyb21BeGYuZGlyX291dHB1dCkK</text>
+        <text encoding="base64">ICAgIFJlcy5yZXNldCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IHJtdHJlZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXZlci5lYXN5IGltcG9ydCBzaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHIK</text>
+        <text encoding="base64">Y2xhc3MgUmVzOgogICAgZm5fc2NmID0gTm9uZQogICAgZGlyX3JlcyA9IE5vbmUKICAgIGRpcl9vdXRwdXQgPSAiX3Rlc3Rfb3V0cHV0IgogICAgbG9nX2ZuID0gJ19iZGRfY21kX291dHB1dC5sb2cnCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBydW5fY21kKGNscywgc3RyX2NtZCk6CiAgICAgICAgcmV0ID0gc2goc3RyX2NtZCwgVHJ1ZSkKICAgICAgICBvcGVuKGNscy5sb2dfZm4sICdhJykud3JpdGUocmV0KQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHJtX2xvZyhjbHMpOgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGNscy5sb2dfZm4pOgogICAgICAgICAgICBvcy51bmxpbmsoY2xzLmxvZ19mbikKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiByZXNldChjbHMpOgogICAgICAgIGNscy5ybV9sb2coKQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzLmRpcl9vdXRwdXQpOgogICAgICAgICAgICBybXRyZWUoUmVzLmRpcl9vdXRwdXQpCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
+        <text encoding="base64">ICAgIGtrawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
+        <text encoding="base64">ZnJvbSBub3NlLnRvb2xzIGltcG9ydCBhc3NlcnRfZXF1YWwsIGFzc2VydF9mYWxzZSwgYXNzZXJ0X25vdF9lcXVhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJldC5ncm91cCgwKSwgcmV0Lmdyb3VwKDEpKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">QHN0ZXAodSdHaXZlbiBzY2F0dGVyIGZpbGUgIihbXiJdKikiIHdhcyBwcm92aWRlZCBhbmQgcmVzb3VyY2UgZm9sZGVyIGluICIoW14iXSopIicpCmRlZiBnaXZlbl9zY2F0dGVyX2ZpbGVfZ3JvdXAxX3dhc19wcm92aWRlZF9hbmRfcmVzb3VyY2VfZm9sZGVyX2luX2dyb3VwMihzdGVwLCBmbl9zY2YsIGRpcl9yZXMpOgogICAgUmVzQnVpbGRGcm9tQXhmLnJlc2V0KCkKICAgIFJlc0J1aWxkRnJvbUF4Zi5mbl9zY2YgPSBmbl9zY2YKICAgIFJlc0J1aWxkRnJvbUF4Zi5kaXJfcmVzID0gZGlyX3JlcwoKCkBzdGVwKHUnV2hlbiBJIGV4ZWN1dGUgY29tbWFuZCB3aXRoIGFyZ3VtZW50cyAiKFteIl0qKSIgaW4gcmVzb3VyY2UgZm9sZGVyJykKZGVmIHdoZW5faV9leGVjdXRlX2NvbW1hbmRfd2l0aF9hcmd1bWVudHNfZ3JvdXAxKHN0ZXAsIHN0cl9jbWQpOgogICAgYXNzZXJ0X2ZhbHNlKG9zLnBhdGguZXhpc3RzKFJlc0J1aWxkRnJvbUF4Zi5kaXJfb3V0cHV0KSkKICAgIGNtZCA9IHN0cl9jbWQuZm9ybWF0KGRpcl9vdXRwdXQ9UmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQsIGZuX3NjZj1SZXNCdWlsZEZyb21BeGYuZm5fc2NmKQogICAgUmVzQnVpbGRGcm9tQXhmLnJ1bl9jbWQoImNkIHt9ICYmIHt9Ii5mb3JtYXQoUmVzQnVpbGRGcm9tQXhmLmRpcl9yZXMsIGNtZCkpCgoKQHN0ZXAodSdUaGVuIHRoZSBnZW5lcmF0ZWQgTE9EIGZpbGVzIGluIG91dHB1dCBkaXIgc2hvdWxkIGJlIGJpbmFyeSBzYW1lIHdpdGggZmlsZSBpbiBkaXIgIihbXiJdKikiLicpCmRlZiB0aGVuX3RoZV9nZW5lcmF0ZWRfbG9kX2ZpbGVfc19pbl9vdXRwdXRfZGlyX3Nob3VsZF9iZV9iaW5hcnlfc2FtZV93aXRoX2ZpbGVfaW5fZGlyX2dyb3VwMShzdGVwLCBkaXJfZm9yX3Zlcik6CiAgICBsb2RfbGlzdCA9IGxpc3QoaWdsb2IoJ3t9LyoubG9kJy5mb3JtYXQoUmVzQnVpbGRGcm9tQXhmLmRpcl9vdXRwdXQpKSkKICAgIGFzc2VydF9ub3RfZXF1YWwobGVuKGxvZF9saXN0KSwgMCwgJ05vIExPRCBmaWxlIGZvdW5kLicpCiAgICBmb3IgbG9kX3BhdGggaW4gbG9kX2xpc3Q6CiAgICAgICAgZm4gPSBvcy5wYXRoLnNwbGl0KGxvZF9wYXRoKVsxXQogICAgICAgIGxvZF90b192ZXIgPSBvcy5wYXRoLmpvaW4oUmVzQnVpbGRGcm9tQXhmLmRpcl9yZXMsIGRpcl9mb3JfdmVyLCBmbikKICAgICAgICBhc3NlcnRfZXF1YWwob3Blbihsb2RfcGF0aCwgJ3JiJykucmVhZCgpLCBvcGVuKGxvZF90b192ZXIsICdyYicpLnJlYWQoKSwKICAgICAgICAgICAgICAgICAgICAgJ0xPRCBmaWxlIFt7fV0gbm90IGJpbmFyeSBzYW1lIHdpdGggW3t9XScuZm9ybWF0KGxvZF9wYXRoLCBsb2RfdG9fdmVyKSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFrZWxvZFAxLnB5IC9GSU5EIExPRD1maW5hbFxDRlcuTE9EIFBBVFRFUk49REU3MkY3MjJCNDlGNDZFMjAzQUExMjQ2MDBEQjk2NEE1REI1MUNFNTdFRkFEMUNBMDkyRjgwRjU1QUNEMjdFM0NCRDgyMjZBRUZGRTZDRjM1RjlFQUZGNURDRjlFMjQ0QkUzQTFFQTdFNTFGODQ5OUU4NUYzNTBBOEE0QTMzQjQ5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTI5MjkyOTIgTEVOR1RIPTB4OTQgT1VUUFVUPWZvby5iaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
