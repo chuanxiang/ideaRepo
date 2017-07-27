@@ -162,11 +162,11 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501135460288">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501143306974">
         <mark key="'" line="5" column="394" />
-        <mark key="[" line="13" column="42" />
+        <mark key="[" line="13" column="66" />
         <mark key="]" line="13" column="67" />
-        <mark key="^" line="13" column="67" />
+        <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="67" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
@@ -184,11 +184,10 @@
       <file name="/" timestamp="1500959319366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_build_from_axf.py" timestamp="1501117873811">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="5" column="3" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_build_from_axf.py" timestamp="1501143110322">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="C:/cxbin/cxbuild.py" timestamp="1500359492332">
         <mark key="[" line="0" column="15" />
@@ -238,10 +237,11 @@
       <file name="/fragment.java" timestamp="1501056685027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501141487423">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501142528934">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/makelodP1/makelodP1.py" timestamp="1496129235121">
         <mark key="[" line="47" column="0" />
@@ -356,47 +356,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfCBjdHJscl9mbGFzaC5zY2YgICAgICAgIHwgYnVpbGRfZnJvbV9heGYvZmxhc2ggICAgICAgIHwK</text>
+      <register name="&quot;" type="4">
+        <text>DISCFW</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>DISCFW</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfCB0ZXN0L2JkZC9yZXNvdXJjZXMvYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjL0NGVy5MT0QgfCAxNzZDRDAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgfCB0ZXN0L2JkZC9yZXNvdXJjZXMvYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjL0RJU0NGVy5MT0QgfCAxNzZDRDAgICAgIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfCBjdHJscl9mbGFzaC5zY2YgICAgICAgIHwgYnVpbGRfZnJvbV9heGYvZmxhc2ggICAgICAgIHwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoLmFic3BhdGgoZm4pLCBvcy5wYXRoLmFic3BhdGgobG9kX3RvX3ZlcikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aGljaCBjb250YWlucyBmaW5hbC5heGYsIGZpbmFsLm1hcCwgY3RybC5zY2YuCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mYWxzZShvcy5wYXRoLmV4aXN0cyhSZXMuZGlyX291dHB1dCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYWtlbG9kUDEucHkKCgo=</text>
+        <text encoding="base64">ICAgICAgfCBjdHJscl9mbGFzaC5zY2YgICAgICAgIHwgYnVpbGRfZnJvbV9heGYvZmxhc2ggICAgICAgIHwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYWtlbG9kUDEucHkK</text>
+        <text encoding="base64">ICB3aGljaCBjb250YWlucyBmaW5hbC5heGYsIGZpbmFsLm1hcCwgY3RybC5zY2YuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICBtYWtlbG9kUDEucHkKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IHJtdHJlZQo=</text>
+        <text encoding="base64">ICBtYWtlbG9kUDEucHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBwYXZlci5lYXN5IGltcG9ydCBzaAo=</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUmVzOgogICAgZm5fc2NmID0gTm9uZQogICAgZGlyX3JlcyA9IE5vbmUKICAgIGRpcl9vdXRwdXQgPSAiX3Rlc3Rfb3V0cHV0IgogICAgbG9nX2ZuID0gJ19iZGRfY21kX291dHB1dC5sb2cnCgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiBydW5fY21kKGNscywgc3RyX2NtZCk6CiAgICAgICAgcmV0ID0gc2goc3RyX2NtZCwgVHJ1ZSkKICAgICAgICBvcGVuKGNscy5sb2dfZm4sICdhJykud3JpdGUocmV0KQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHJtX2xvZyhjbHMpOgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGNscy5sb2dfZm4pOgogICAgICAgICAgICBvcy51bmxpbmsoY2xzLmxvZ19mbikKCiAgICBAY2xhc3NtZXRob2QKICAgIGRlZiByZXNldChjbHMpOgogICAgICAgIGNscy5ybV9sb2coKQogICAgICAgIGlmIG9zLnBhdGguaXNkaXIoUmVzLmRpcl9vdXRwdXQpOgogICAgICAgICAgICBybXRyZWUoUmVzLmRpcl9vdXRwdXQpCgoK</text>
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IHJtdHJlZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtrawo=</text>
+        <text encoding="base64">ZnJvbSBwYXZlci5lYXN5IGltcG9ydCBzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
