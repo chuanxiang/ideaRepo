@@ -162,12 +162,12 @@
         <mark key="." line="12" column="6" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501127000940">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501135460288">
         <mark key="'" line="5" column="394" />
-        <mark key="[" line="15" column="140" />
-        <mark key="]" line="15" column="147" />
-        <mark key="^" line="15" column="147" />
-        <mark key="." line="15" column="147" />
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="67" />
+        <mark key="^" line="13" column="67" />
+        <mark key="." line="13" column="67" />
       </file>
       <file name="C:/workspace/project/gcxstudio/settings.gradle" timestamp="1500429782593">
         <mark key="[" line="4" column="13" />
@@ -175,11 +175,11 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/res.py" timestamp="1501117277840">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/res.py" timestamp="1501135325182">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
       </file>
       <file name="/" timestamp="1500959319366">
         <mark key="[" line="0" column="0" />
@@ -238,7 +238,12 @@
       <file name="/fragment.java" timestamp="1501056685027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501116332432" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501135858469">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/makelodP1/makelodP1.py" timestamp="1496129235121">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -353,13 +358,13 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>iTCM_CFW_sdfwl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>iTCM_CFW_sdfwl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dir</text>
