@@ -198,12 +198,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_find_replace_cmd.py" timestamp="1501206210066">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/steps/steps_find_replace_cmd.py" timestamp="1501208877425">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="16" column="98" />
-        <mark key="]" line="16" column="118" />
-        <mark key="." line="16" column="118" />
-        <mark key="^" line="16" column="118" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="30" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1501042828621">
         <mark key="[" line="0" column="0" />
@@ -220,12 +220,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501206319988">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/find_replace_cmd.feature" timestamp="1501208910998">
         <mark key="'" line="10" column="76" />
-        <mark key="[" line="19" column="134" />
-        <mark key="]" line="19" column="148" />
-        <mark key="." line="19" column="148" />
-        <mark key="^" line="19" column="148" />
+        <mark key="[" line="19" column="208" />
+        <mark key="]" line="19" column="234" />
+        <mark key="." line="19" column="234" />
+        <mark key="^" line="19" column="234" />
       </file>
       <file name="C:/cxbin/calc_perf_time.py" timestamp="1497504364436">
         <mark key="[" line="57" column="26" />
@@ -363,47 +363,47 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pkcs_signature</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>pkcs_signature</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfQ09NUFJFU1NfVFlQRV9ESUNUXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFuZCByZXNvdXJjZSBmb2xkZXIgaW4gInRlc3QvYmRkL3Jlc291cmNlcyIK</text>
+        <text encoding="base64">ICAgIGNtZCA9IHN0cl9jbWQuZm9ybWF0KHBhdGhfbG9kPVJlcy5wYXRoX2xvZCwgZGlyX291dHB1dD1SZXMuZGlyX291dHB1dCwgc3RyX3BhdHRlcm49c3RyX3BhdHRlcm4sIGRpcl9yZXM9UmVzLmRpcl9yZXMpCiAgICBSZXMucnVuX2NtZChjbWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGdpdmVuX3NjYXR0ZXJfZmlsZV9ncm91cDFfd2FzX3Byb3ZpZGVkKHN0ZXAsIGdyb3VwMSk6CiAgICBhc3NlcnQgRmFsc2UsICdUaGlzIHN0ZXAgbXVzdCBiZSBpbXBsZW1lbnRlZCcKICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdpdmVuX3NjYXR0ZXJfZmlsZV9ncm91cDFfd2FzX3Byb3ZpZGVkKHN0ZXAsIGdyb3VwMSk6CiAgICBhc3NlcnQgRmFsc2UsICdUaGlzIHN0ZXAgbXVzdCBiZSBpbXBsZW1lbnRlZCcKICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHN0ZXAodSdBbmQgcmVzb3VyY2UgZm9sZGVyIGluICIoW14iXSopIicpCmRlZiBhbmRfcmVzb3VyY2VfZm9sZGVyX2luX2dyb3VwMShzdGVwLCBncm91cDEpOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">QHN0ZXAodSdHaXZlbiBzY2F0dGVyIGZpbGUgIihbXiJdKikiIHdhcyBwcm92aWRlZCBhbmQgcmVzb3VyY2UgZm9sZGVyIGluICIoW14iXSopIicpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QHN0ZXAodSdHaXZlbiBzY2F0dGVyIGZpbGUgIihbXiJdKikiIHdhcyBwcm92aWRlZCcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBCYWNrZ3JvdW5kOgogICAgR2l2ZW4geHh4Cgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QHN0ZXAodSdBbmQgcmVzb3VyY2UgZm9sZGVyIGluICIoW14iXSopIicpCmRlZiBhbmRfcmVzb3VyY2VfZm9sZGVyX2luX2dyb3VwMShzdGVwLCBncm91cDEpOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QHN0ZXAodSdHaXZlbiBzY2F0dGVyIGZpbGUgIihbXiJdKikiIHdhcyBwcm92aWRlZCBhbmQgcmVzb3VyY2UgZm9sZGVyIGluICIoW14iXSopIicpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QHN0ZXAodSdHaXZlbiBzY2F0dGVyIGZpbGUgIihbXiJdKikiIHdhcyBwcm92aWRlZCcpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBCYWNrZ3JvdW5kOgogICAgR2l2ZW4geHh4Cgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvUkVQTEFDRSBMT0Q9ZmluYWxcQkZXLkxPRCBPRkZTRVQ9NTY1QyBEQVRBRklMRT1wa2NzX3NpZ25hdHVyZS5iaW4gT1VUUFVUPWlUQ01fQkZXX3NkZndsLmxvZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEdpdmVuICI8cGF0aF9sb2Q+IiBhbmQgIjxzdHJfb2Zmc2V0PiIgd2VyZSBwcm92aWRlZCBmb3IgZmluZCBvciByZXBsYWNlIGNvbW1hbmQK</text>
+        <text encoding="base64">ICAvUkVQTEFDRSBMT0Q9ZmluYWxcQkZXLkxPRCBPRkZTRVQ9NTY1QyBEQVRBRklMRT1wa2NzX3NpZ25hdHVyZS5iaW4gT1VUUFVUPWlUQ01fQkZXX3NkZndsLmxvZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
