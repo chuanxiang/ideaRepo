@@ -65,9 +65,9 @@
         <mark key="." line="1320" column="0" />
         <mark key="^" line="1320" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501150898067">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501220452009">
         <mark key="b" line="5040" column="78" />
-        <mark key="'" line="5052" column="54" />
+        <mark key="'" line="723" column="8" />
         <mark key="[" line="2608" column="43" />
         <mark key="]" line="2608" column="47" />
         <mark key="." line="2608" column="47" />
@@ -161,7 +161,10 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1501152401531">
+      <file name="/Python Console" timestamp="1501219864907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1501220568753">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/steps/steps.py" timestamp="1500368016787">
@@ -280,13 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="60" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="221" column="43" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="250" column="33" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="260" column="33" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="267" column="21" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="270" column="8" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="129" column="17" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
       <jump line="154" column="7" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
       <jump line="102" column="30" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
       <jump line="121" column="50" filename="C:/workspace/PyYaspp_CXL3/sdbp.py" />
@@ -380,6 +376,13 @@
       <jump line="85" column="11" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/compress.py" />
       <jump line="46" column="0" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/compress.py" />
       <jump line="82" column="17" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/compress.py" />
+      <jump line="2189" column="69" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="338" column="13" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="768" column="28" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="763" column="29" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="742" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="727" column="31" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="723" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -395,7 +398,7 @@
         <text>CRC</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfQ09NUFJFU1NfVFlQRV9ESUNUXD4=</text>
+        <text encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBjdHJscl9hcHBlbmRfaW9lY2Muc2NmIHwgYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjIHwK</text>
@@ -432,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfQ09NUFJFU1NfVFlQRV9ESUNUXD4=</last-search>
+      <last-search encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfQ09NUFJFU1NfVFlQRV9ESUNUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</last-pattern>
       <last-replace>DETS</last-replace>
       <last-substitute>DITS</last-substitute>
       <last-dir>1</last-dir>
@@ -442,9 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvc1w+</entry>
-        <entry encoding="base64">XDxyb290X2ZpbGVfbmFtZVw+</entry>
-        <entry encoding="base64">XDxhc3NlcnRfbm90X2VxdWFsXD4=</entry>
         <entry encoding="base64">XDxzaFw+</entry>
         <entry>uncompressed_data\s*=</entry>
         <entry>uncompressed_data</entry>
@@ -462,6 +462,9 @@
         <entry encoding="base64">XDxMWk1BX0NPTVBSRVNTSU9OXD4=</entry>
         <entry encoding="base64">XDxJbnZhbGlkXD4=</entry>
         <entry encoding="base64">XDxfQ09NUFJFU1NfVFlQRV9ESUNUXD4=</entry>
+        <entry>Lod</entry>
+        <entry encoding="base64">XDxsb2RfaGVhZGVyX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bollean/Boolean/g</entry>
