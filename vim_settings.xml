@@ -58,16 +58,16 @@
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/makelodP1.py" timestamp="1501210777324">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/makelodP1.py" timestamp="1501220902017">
         <mark key="'" line="471" column="27" />
         <mark key="[" line="1320" column="0" />
         <mark key="]" line="1320" column="0" />
         <mark key="." line="1320" column="0" />
         <mark key="^" line="1320" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501220452009">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501222109937">
         <mark key="b" line="5040" column="78" />
-        <mark key="'" line="723" column="8" />
+        <mark key="'" line="2514" column="69" />
         <mark key="[" line="2608" column="43" />
         <mark key="]" line="2608" column="47" />
         <mark key="." line="2608" column="47" />
@@ -84,6 +84,11 @@
         <mark key="]" line="6" column="84" />
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress_test.scf" timestamp="1501222371475">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501058923033">
         <mark key="[" line="12" column="6" />
@@ -103,11 +108,11 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="29" column="25" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress.scf" timestamp="1501214096933">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="65" />
-        <mark key="." line="23" column="65" />
-        <mark key="^" line="23" column="65" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress.scf" timestamp="1501222285364">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="/" timestamp="1500959319366">
         <mark key="[" line="0" column="0" />
@@ -161,11 +166,13 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1501219864907">
+      <file name="/Python Console" timestamp="1501222062917">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1501220568753">
+      <file name="/fragment.py" timestamp="1501221849581">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/steps/steps.py" timestamp="1500368016787">
         <mark key="[" line="1" column="19" />
@@ -275,37 +282,14 @@
       <file name="/fragment.java" timestamp="1501056685027">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501213966895">
-        <mark key="[" line="14" column="69" />
-        <mark key="]" line="14" column="77" />
-        <mark key="." line="14" column="77" />
-        <mark key="^" line="14" column="77" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/features/build_from_axf.feature" timestamp="1501222341483">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="39" />
+        <mark key="^" line="14" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="7" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="102" column="30" filename="C:/workspace/PyYaspp_CXL3/eslip.py" />
-      <jump line="121" column="50" filename="C:/workspace/PyYaspp_CXL3/sdbp.py" />
-      <jump line="774" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="333" column="52" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="100" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="101" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="102" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="103" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="104" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="250" column="33" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="105" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="106" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="107" column="0" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="246" column="33" filename="C:/workspace/PyYaspp_CXL3/tcg.py" />
-      <jump line="1" column="7" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="18" column="75" filename="C:/workspace/pyMakelodP1_CXL3/makelodP1.py" />
-      <jump line="663" column="47" filename="C:/workspace/pyMakelodP1_CXL3/makelodP1.py" />
-      <jump line="14" column="0" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="2" column="21" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="34" column="4" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="4" column="64" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="41" column="21" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
       <jump line="11" column="10" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
       <jump line="32" column="58" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
       <jump line="16" column="19" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
@@ -383,22 +367,45 @@
       <jump line="742" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="727" column="31" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="723" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1298" column="50" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2140" column="92" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2226" column="0" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2515" column="49" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="314" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="337" column="13" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="472" column="71" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="473" column="42" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="670" column="43" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="671" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="673" column="67" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="674" column="60" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="940" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="960" column="13" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1299" column="43" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1300" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1302" column="67" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1304" column="60" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2130" column="124" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2142" column="130" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2511" column="43" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2512" column="27" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2514" column="69" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CRC</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>CRC</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</text>
+        <text>lod_header_sym</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBjdHJscl9hcHBlbmRfaW9lY2Muc2NmIHwgYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjIHwK</text>
@@ -435,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</last-search>
+      <last-search>lod_header_sym</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</last-pattern>
+      <last-pattern>lod_header_sym</last-pattern>
       <last-replace>DETS</last-replace>
       <last-substitute>DITS</last-substitute>
       <last-dir>1</last-dir>
@@ -445,12 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaFw+</entry>
-        <entry>uncompressed_data\s*=</entry>
-        <entry>uncompressed_data</entry>
-        <entry>uncompressed_data.*=</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9pb2VjY19mcm9tX3N0cmluZ1w+</entry>
-        <entry encoding="base64">XDxwYXJzZV9zZWdtZW50X3NlY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzZWRfZGF0YVw+</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</entry>
         <entry>rmdir</entry>
@@ -465,6 +466,12 @@
         <entry>Lod</entry>
         <entry encoding="base64">XDxsb2RfaGVhZGVyX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxsb2RfZmlsZV9oZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2RfaGVhZGVyX3N5bVw+</entry>
+        <entry>lod_header_sym\.data</entry>
+        <entry>HEADER_SYM</entry>
+        <entry encoding="base64">XDxIRUFERVJfU1lNXD4=</entry>
+        <entry encoding="base64">XDxfbmV3X3N5bWJvbFw+</entry>
+        <entry>lod_header_sym</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bollean/Boolean/g</entry>
