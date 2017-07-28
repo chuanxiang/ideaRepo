@@ -386,7 +386,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -490,7 +490,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>17</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
