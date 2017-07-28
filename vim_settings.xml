@@ -65,9 +65,9 @@
         <mark key="." line="1320" column="0" />
         <mark key="^" line="1320" column="0" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501222109937">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" timestamp="1501222914009">
         <mark key="b" line="5040" column="78" />
-        <mark key="'" line="2514" column="69" />
+        <mark key="'" line="1957" column="21" />
         <mark key="[" line="2608" column="43" />
         <mark key="]" line="2608" column="47" />
         <mark key="." line="2608" column="47" />
@@ -85,7 +85,7 @@
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress_test.scf" timestamp="1501222371475">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress_test.scf" timestamp="1501222465513">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
@@ -166,7 +166,7 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1501222062917">
+      <file name="/Python Console" timestamp="1501223045632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1501221849581">
@@ -290,24 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="10" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="32" column="58" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="16" column="19" filename="C:/workspace/pyMakelodP1_CXL3/test/bdd/steps/steps.py" />
-      <jump line="2965" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="4688" column="49" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="4692" column="42" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="4995" column="71" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="5051" column="74" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="5055" column="54" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="2880" column="65" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="3399" column="24" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="2978" column="13" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="141" column="0" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="3406" column="21" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="3400" column="20" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="3398" column="20" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="3402" column="22" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
-      <jump line="37" column="31" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="1072" column="37" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="1121" column="40" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="1131" column="37" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
@@ -390,22 +372,40 @@
       <jump line="2511" column="43" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="2512" column="27" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
       <jump line="2514" column="69" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2407" column="20" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2529" column="87" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2534" column="73" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2538" column="112" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2541" column="60" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2544" column="112" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2547" column="60" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1082" column="54" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1141" column="94" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1674" column="55" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="2009" column="40" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1988" column="72" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1741" column="13" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1714" column="8" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1777" column="59" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1840" column="33" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1842" column="33" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
+      <jump line="1957" column="21" filename="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/scatter_parser.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEFQUEVORF9JT0VDQw==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IEFQUEVORF9JT0VDQw==</text>
       </register>
       <register name="/" type="4">
-        <text>lod_header_sym</text>
+        <text encoding="base64">XDxkZXN0aW5hdGlvbl9hZGRyZXNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBjdHJscl9hcHBlbmRfaW9lY2Muc2NmIHwgYnVpbGRfZnJvbV9heGYvYXBwZW5kX2lvZWNjIHwK</text>
@@ -442,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lod_header_sym</last-search>
+      <last-search encoding="base64">XDxkZXN0aW5hdGlvbl9hZGRyZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern>lod_header_sym</last-pattern>
+      <last-pattern encoding="base64">XDxkZXN0aW5hdGlvbl9hZGRyZXNzXD4=</last-pattern>
       <last-replace>DETS</last-replace>
       <last-substitute>DITS</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bmNvbXByZXNzZWRfZGF0YVw+</entry>
         <entry encoding="base64">XDx1bmNvbXByZXNzZWRfbGVuZ3RoXD4=</entry>
         <entry>rmdir</entry>
         <entry>Can't find 'axf</entry>
@@ -472,6 +471,7 @@
         <entry encoding="base64">XDxIRUFERVJfU1lNXD4=</entry>
         <entry encoding="base64">XDxfbmV3X3N5bWJvbFw+</entry>
         <entry>lod_header_sym</entry>
+        <entry encoding="base64">XDxkZXN0aW5hdGlvbl9hZGRyZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bollean/Boolean/g</entry>
