@@ -84,11 +84,11 @@
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress_test.scf" timestamp="1501224856066">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/test/bdd/resources/ctrlr_append_ioecc_compress_test.scf" timestamp="1501229048795">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501058923033">
         <mark key="[" line="12" column="6" />
@@ -396,13 +396,13 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CRC</text>
+        <text encoding="base64">IEFQUEVORF9JT0VDQw==</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>CRC</text>
+        <text encoding="base64">IEFQUEVORF9JT0VDQw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZW5ndGhcPg==</text>
