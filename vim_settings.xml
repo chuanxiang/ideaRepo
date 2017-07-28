@@ -182,10 +182,10 @@
         <mark key="." line="655" column="0" />
         <mark key="^" line="823" column="48" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/compress.py" timestamp="1501152945667">
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/compress.py" timestamp="1501204395751">
         <mark key="[" line="82" column="43" />
-        <mark key="]" line="82" column="49" />
-        <mark key="." line="82" column="49" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="43" />
         <mark key="^" line="82" column="49" />
       </file>
       <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/serial_flash_ioecc.py" timestamp="1497236852192">
@@ -364,13 +364,13 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbnZhbGlkXD4=</text>

@@ -246,12 +246,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Difference">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'F7'</ShortCut>
+          <Description>Next Difference</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Override Methods...">
         <Item>
           <IdeaActionID>OverrideMethods</IdeaActionID>
           <ShortCut>'Ctrl+O'</ShortCut>
           <Description>Override Methods...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Difference">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Shift+F7'</ShortCut>
+          <Description>Previous Difference</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -362,7 +378,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'run_lettuce_specific'</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -371,6 +387,14 @@
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show History">
@@ -458,7 +482,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
