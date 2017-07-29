@@ -3,96 +3,365 @@
     <option name="statistics">
       <Statistic Action="Add">
         <Item>
-          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add New Configuration">
         <Item>
           <IdeaActionID />
-          <ShortCut>'⌘N'</ShortCut>
+          <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Configuration</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Compare with Clipboard">
+      <Statistic Action="Add to VCS">
         <Item>
-          <IdeaActionID>CompareClipboardWithSelection</IdeaActionID>
-          <ShortCut>'⌘+B'</ShortCut>
-          <Description>Compare with Clipboard</Description>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Copy Reference">
+      <Statistic Action="Annotate">
         <Item>
-          <IdeaActionID>CopyReference</IdeaActionID>
-          <ShortCut>'⌥⇧⌘C'</ShortCut>
-          <Description>Copy Reference</Description>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'Alt+N'</ShortCut>
+          <Description>Annotate</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Find Action...">
+      <Statistic Action="Build Project">
         <Item>
-          <IdeaActionID>GotoAction</IdeaActionID>
-          <ShortCut>'⇧⌘A'</ShortCut>
-          <Description>Find Action...</Description>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>Column Selection Mode</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare File with Editor">
+        <Item>
+          <IdeaActionID>CompareFileWithEditor</IdeaActionID>
+          <ShortCut>'Alt+M'</ShortCut>
+          <Description>Compare File with Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare Files">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare with the Same Repository Version">
+        <Item>
+          <IdeaActionID>Compare.SameVersion</IdeaActionID>
+          <ShortCut>'Alt+Y'</ShortCut>
+          <Description>Compare with the Same Repository Version</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'makelodP1'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'makelodP1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>PerforceDirect.Edit</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+E'</ShortCut>
+          <Description>Edit</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>
-          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go To Hash/Branch/Tag">
+        <Item>
+          <IdeaActionID>Vcs.Log.GoToRef</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Go To Hash/Branch/Tag</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group by Directory">
+        <Item>
+          <IdeaActionID />
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Group by Directory</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
         <Item>
-          <ShortCut>'⇧⎋'</ShortCut>
+          <ShortCut>'Shift+Escape'</ShortCut>
           <Description>Hide</Description>
-          <Count>3</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
-          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Override Methods...">
+        <Item>
+          <IdeaActionID>OverrideMethods</IdeaActionID>
+          <ShortCut>'Ctrl+O'</ShortCut>
+          <Description>Override Methods...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'⌘+1'</ShortCut>
+          <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
-          <ShortCut>'⌘;'</ShortCut>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'TestClass.main()'">
-        <Item>
-          <IdeaActionID />
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'TestClass.main()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Synchronize">
+      <Statistic Action="Put Label...">
         <Item>
-          <IdeaActionID>Synchronize</IdeaActionID>
-          <ShortCut>'⌥⌘Y'</ShortCut>
-          <Description>Synchronize</Description>
+          <IdeaActionID>LocalHistory.PutLabel</IdeaActionID>
+          <ShortCut>'Alt+L'</ShortCut>
+          <Description>Put Label...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
+          <Description>Refactor This...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <ShortCut>'Alt+Delete'</ShortCut>
+          <Description>Remove</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'bash_lettuces'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'bash_lettuces'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'makelodP1'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'makelodP1'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'run_lettuce'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'run_lettuce'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
+          <ShortCut>'Alt+H'</ShortCut>
+          <Description>Show History</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show History for Revision">
+        <Item>
+          <IdeaActionID>Vcs.ShowHistoryForRevision</IdeaActionID>
+          <ShortCut>'Alt+R'</ShortCut>
+          <Description>Show History for Revision</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Local Changes as UML">
+        <Item>
+          <IdeaActionID>UML.ShowChanges</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
+          <Description>Show Local Changes as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'makelodP1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'makelodP1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Alt+Back Quote'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View External Documentation">
+        <Item>
+          <ShortCut>'Shift+F1'</ShortCut>
+          <Description>View External Documentation</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
