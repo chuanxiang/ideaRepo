@@ -10,7 +10,6 @@
       </Statistic>
       <Statistic Action="Add New Configuration">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Configuration</Description>
           <Count>4</Count>
@@ -153,7 +152,6 @@
       </Statistic>
       <Statistic Action="Group by Directory">
         <Item>
-          <IdeaActionID />
           <ShortCut>'Ctrl+P'</ShortCut>
           <Description>Group by Directory</Description>
           <Count>2</Count>
@@ -211,7 +209,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
