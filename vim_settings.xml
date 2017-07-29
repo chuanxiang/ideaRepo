@@ -29,15 +29,6 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature.story" timestamp="1499829805317">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="0" column="33" />
-      </file>
-      <file name="/Python Console" timestamp="1501056278379">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/requirements.txt" timestamp="1499833803139">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="11" />
@@ -55,30 +46,17 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/steps/steps.py" timestamp="1500368016787">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
       <file name="C:/workspace/PyYaspp_CXL3/pavement.py" timestamp="1500257661754">
         <mark key="[" line="27" column="12" />
         <mark key="]" line="27" column="12" />
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/makelodP1.py" timestamp="1501056332871">
-        <mark key="'" line="663" column="47" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="25" />
-      </file>
-      <file name="C:/workspace/PyYaspp_CXL3/tcg_service.py" timestamp="1500878531587">
-        <mark key="[" line="655" column="0" />
-        <mark key="]" line="655" column="0" />
-        <mark key="." line="655" column="0" />
-        <mark key="^" line="823" column="48" />
+      <file name="$USER_HOME$/workspace/gcxstudio/src/test/resources/com/gcxstudio/nric_verifier.feature" timestamp="1499593776866">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="C:/workspace/PyYaspp_CXL3/thread_base.py" timestamp="1499991057375">
         <mark key="[" line="72" column="18" />
@@ -86,11 +64,11 @@
         <mark key="^" line="73" column="17" />
         <mark key="." line="73" column="17" />
       </file>
-      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/serial_flash_ioecc.py" timestamp="1497236852192">
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="174" column="29" />
-        <mark key="." line="178" column="0" />
-        <mark key="^" line="178" column="0" />
+      <file name="$USER_HOME$/workspace/testnewprj/src/main/java/TestClass.java" timestamp="1501019154797">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="C:/workspace/PyYaspp_CXL3/eslip.py" timestamp="1500940390874">
         <mark key="'" line="102" column="30" />
@@ -103,45 +81,11 @@
         <mark key="^" line="5042" column="91" />
         <mark key="." line="5063" column="0" />
       </file>
-      <file name="C:/workspace/PyYaspp_CXL3/sdbp.py" timestamp="1500943454762">
-        <mark key="'" line="121" column="50" />
-      </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/pavement.py" timestamp="1501055069940">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="32" />
         <mark key="^" line="12" column="47" />
         <mark key="." line="12" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501042828621">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/04-integration/Vagrantfile" timestamp="1496136880621">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="84" />
-        <mark key="^" line="6" column="84" />
-        <mark key="." line="6" column="84" />
-      </file>
-      <file name="C:/workspace/pyMakelodP1_CXL3/test/unit/util_test.py" timestamp="1499856602536">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="43" />
-      </file>
-      <file name="C:/workspace/PyYaspp_CXL3/extensions/extension_base.py" timestamp="1500877327091">
-        <mark key="a" line="14" column="17" />
-        <mark key="'" line="100" column="0" />
-        <mark key="j" line="17" column="17" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="67" />
-        <mark key="m" line="11" column="17" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="C:/cxbin/cx_create_t32_script.py" timestamp="1500530494054">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="17" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/build_from_axf.feature" timestamp="1501058923033">
         <mark key="[" line="12" column="6" />
@@ -170,12 +114,6 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="C:/cxbin/calc_perf_time.py" timestamp="1497504364436">
-        <mark key="[" line="57" column="26" />
-        <mark key="]" line="57" column="26" />
-        <mark key="." line="57" column="26" />
-        <mark key="^" line="61" column="9" />
-      </file>
       <file name="C:/workspace/project/gcxstudio/src/main/java/com/gcxstudio/config/WebConfig.java" timestamp="1501035909091">
         <mark key="[" line="65" column="15" />
         <mark key="]" line="65" column="15" />
@@ -189,6 +127,126 @@
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/build.gradle" timestamp="1498919837771">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1501019039489">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/04-integration/Vagrantfile" timestamp="1496136880621">
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="6" column="84" />
+        <mark key="^" line="6" column="84" />
+        <mark key="." line="6" column="84" />
+      </file>
+      <file name="$USER_HOME$/workspace/cxhousing/housingcollector/src/main/java/com/gcxstudio/housingcollector/service/SellingFetcher.java" timestamp="1501338321394">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature.story" timestamp="1499829805317">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="/Python Console" timestamp="1501056278379">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/steps/steps.py" timestamp="1500368016787">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/makelodP1.py" timestamp="1501056332871">
+        <mark key="'" line="663" column="47" />
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/tcg_service.py" timestamp="1500878531587">
+        <mark key="[" line="655" column="0" />
+        <mark key="]" line="655" column="0" />
+        <mark key="." line="655" column="0" />
+        <mark key="^" line="823" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/gradle_test/build.gradle" timestamp="1500076541614">
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="83" />
+        <mark key="." line="21" column="83" />
+        <mark key="^" line="21" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/src/test/java/nicebank/Steps.java" timestamp="1498987582793">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
+      <file name="C:/workspace/F3_trunk_1_CXL3/Master/Exec/pyMakelodP1/serial_flash_ioecc.py" timestamp="1497236852192">
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="174" column="29" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gcxstudio/build.gradle" timestamp="1500592387232">
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="81" column="47" />
+        <mark key="." line="81" column="47" />
+        <mark key="^" line="81" column="47" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1500932822866">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/workspace/PyYaspp_CXL3/sdbp.py" timestamp="1500943454762">
+        <mark key="'" line="121" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501042828621">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/src/test/resources/cash_withdrawal.feature" timestamp="1498905968540">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
+      <file name="C:/workspace/pyMakelodP1_CXL3/test/unit/util_test.py" timestamp="1499856602536">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="43" />
+      </file>
+      <file name="C:/cxbin/cx_create_t32_script.py" timestamp="1500530494054">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/src/test/resources/Steps.java" timestamp="1498918400465">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gradle_test/settings.gradle" timestamp="1500073548104">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="C:/cxbin/calc_perf_time.py" timestamp="1497504364436">
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="^" line="61" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/src/test/resources/steps.java" timestamp="1498918041200">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="C:/workspace/PyYaspp_CXL3/tcg.py" timestamp="1500958683457">
         <mark key="'" line="247" column="33" />
         <mark key="[" line="231" column="22" />
@@ -196,15 +254,33 @@
         <mark key="." line="231" column="22" />
         <mark key="^" line="235" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/bdd/cucumber_ch7/src/test/resources/features/cash_withdrawal.feature" timestamp="1498987686294">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/groovy_test/src/test1.groovy" timestamp="1500071492317">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1501056685027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/gcxstudio/src/test/java/com/gcxstudio/FeatureTest.java" timestamp="1499594787492">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+        <mark key="." line="11" column="64" />
+      </file>
       <file name="C:/workspace/PyYaspp_CXL3/pylintrc" timestamp="1500858877926">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="27" column="14" />
         <mark key="]" line="27" column="3" />
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1501056685027">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/makelodP1/makelodP1.py" timestamp="1496129235121">
         <mark key="[" line="47" column="0" />
@@ -320,7 +396,7 @@
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0s6CiAgICAgICAgICAgICAgICAjIFJlY2FsY3VsYXRlIElPRUNDCiAgICAgICAgICAgICAgICBpZiBjdXJfc2VjdGlvbi5jb21wcmVzc2VkOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAwLCAnSU9FQ0MgcHJvdGVjdGVkIGRhdGEgc2hvdWxkIG5vdCBiZSBjb21wcmVzc2VkJwoKICAgICAgICAgICAgICAgICMgUmVtb3ZlIG9sZCBJT0VDQwogICAgICAgICAgICAgICAgIyBJT0VDQyBkYXRhIGJsb2NrIHNpemUgaXMgNEssIElPRUNDIGNoZWNrIHdvcmQgcGVyIGJsb2NrIGlzIDQgYnl0ZXMuCiAgICAgICAgICAgICAgICBkYXRhX2Jsb2NrX251bSA9IChsZW4oY3VyX3NlY3Rpb24uZGF0YSkgKyA0MDk2KSAvLyA0MTAwCiAgICAgICAgICAgICAgICBpb2VjY19kYXRhID0gZ2VuZXJhdGVfaW9lY2NfZnJvbV9zdHJpbmcoY3VyX3NlY3Rpb24uZGF0YVs6LWRhdGFfYmxvY2tfbnVtICogNF0pCgogICAgICAgICAgICAgICAgIyBBZGQgbmV3IElPRUNDCiAgICAgICAgICAgICAgICBjdXJfc2VjdGlvbi5kYXRhID0gX21lbWNweShjdXJfc2VjdGlvbi5kYXRhLCBpb2VjY19kYXRhLCBsZW4oaW9lY2NfZGF0YSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oY3VyX3NlY3Rpb24uZGF0YSkgLSBkYXRhX2Jsb2NrX251bSAqIDQpCgo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KDEsMyw0KTsK</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
@@ -335,31 +411,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0s6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0s6CiAgICAgICAgICAgICAgICAjIFJlY2FsY3VsYXRlIElPRUNDCiAgICAgICAgICAgICAgICBpZiBjdXJfc2VjdGlvbi5jb21wcmVzc2VkOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAwLCAnSU9FQ0MgcHJvdGVjdGVkIGRhdGEgc2hvdWxkIG5vdCBiZSBjb21wcmVzc2VkJwoKICAgICAgICAgICAgICAgICMgUmVtb3ZlIG9sZCBJT0VDQwogICAgICAgICAgICAgICAgIyBJT0VDQyBkYXRhIGJsb2NrIHNpemUgaXMgNEssIElPRUNDIGNoZWNrIHdvcmQgcGVyIGJsb2NrIGlzIDQgYnl0ZXMuCiAgICAgICAgICAgICAgICBkYXRhX2Jsb2NrX251bSA9IChsZW4oY3VyX3NlY3Rpb24uZGF0YSkgKyA0MDk2KSAvLyA0MTAwCiAgICAgICAgICAgICAgICBpb2VjY19kYXRhID0gZ2VuZXJhdGVfaW9lY2NfZnJvbV9zdHJpbmcoY3VyX3NlY3Rpb24uZGF0YVs6LWRhdGFfYmxvY2tfbnVtICogNF0pCgogICAgICAgICAgICAgICAgIyBBZGQgbmV3IElPRUNDCiAgICAgICAgICAgICAgICBjdXJfc2VjdGlvbi5kYXRhID0gX21lbWNweShjdXJfc2VjdGlvbi5kYXRhLCBpb2VjY19kYXRhLCBsZW4oaW9lY2NfZGF0YSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oY3VyX3NlY3Rpb24uZGF0YSkgLSBkYXRhX2Jsb2NrX251bSAqIDQpCgo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuYXNMaXN0KDEsMyw0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBSZWNhbGN1bGF0ZSBJT0VDQyBpZiBuZWVkZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VyX3NlY3Rpb24uZmxhZ3MgJiBfU0VDVElPTl9JTkZPX0lPRUNDX01BU0s6CiAgICAgICAgICAgICAgICAjIFJlY2FsY3VsYXRlIElPRUNDCiAgICAgICAgICAgICAgICBpZiBjdXJfc2VjdGlvbi5jb21wcmVzc2VkOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAwLCAnSU9FQ0MgcHJvdGVjdGVkIGRhdGEgc2hvdWxkIG5vdCBiZSBjb21wcmVzc2VkJwoKICAgICAgICAgICAgICAgICMgUmVtb3ZlIG9sZCBJT0VDQwogICAgICAgICAgICAgICAgIyBJT0VDQyBkYXRhIGJsb2NrIHNpemUgaXMgNEssIElPRUNDIGNoZWNrIHdvcmQgcGVyIGJsb2NrIGlzIDQgYnl0ZXMuCiAgICAgICAgICAgICAgICBkYXRhX2Jsb2NrX251bSA9IChsZW4oY3VyX3NlY3Rpb24uZGF0YSkgKyA0MDk2KSAvLyA0MTAwCiAgICAgICAgICAgICAgICBpb2VjY19kYXRhID0gZ2VuZXJhdGVfaW9lY2NfZnJvbV9zdHJpbmcoY3VyX3NlY3Rpb24uZGF0YVs6LWRhdGFfYmxvY2tfbnVtICogNF0pCgogICAgICAgICAgICAgICAgIyBBZGQgbmV3IElPRUNDCiAgICAgICAgICAgICAgICBjdXJfc2VjdGlvbi5kYXRhID0gX21lbWNweShjdXJfc2VjdGlvbi5kYXRhLCBpb2VjY19kYXRhLCBsZW4oaW9lY2NfZGF0YSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsZW4oY3VyX3NlY3Rpb24uZGF0YSkgLSBkYXRhX2Jsb2NrX251bSAqIDQpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBSZWNhbGN1bGF0ZSBJT0VDQyBpZiBuZWVkZWQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBsb2RfbGlzdDoK</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBsb2RfbGlzdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZSwgJ1RoaXMgc3RlcCBtdXN0IGJlIGltcGxlbWVudGVkJwoKQHN0ZXAodSdUaGVuIHRoZSBnZW5lcmF0ZWQgTE9EIGZpbGUocykgaW4gb3V0cHV0IGRpciBzaG91bGQgYmUgYmluYXJ5IHNhbWUgd2l0aCBmaWxlIGluIGRpciAiKFteIl0qKSIuJykKZGVmIHRoZW5fdGhlX2dlbmVyYXRlZF9sb2RfZmlsZV9zX2luX291dHB1dF9kaXJfc2hvdWxkX2JlX2JpbmFyeV9zYW1lX3dpdGhfZmlsZV9pbl9kaXJfZ3JvdXAxKHN0ZXAsIGdyb3VwMSk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -375,35 +451,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>ancestors</entry>
-        <entry encoding="base64">XDxUY2dDbWRFbmFibGVEaXNhYmxlTWFrZXJzRmFjdG9yeVw+</entry>
-        <entry encoding="base64">XDx3aGljaFw+</entry>
-        <entry encoding="base64">XDxzdGVwXD4=</entry>
-        <entry>_send</entry>
-        <entry>_send\(</entry>
-        <entry>_send(</entry>
-        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
-        <entry encoding="base64">XDxGRF9UUEVSXD4=</entry>
-        <entry encoding="base64">XDxGRF9MT0NLSU5HXD4=</entry>
-        <entry encoding="base64">XDxGRF9HRU9NRVRSWVw+</entry>
-        <entry encoding="base64">XDxGRF9TRUNVUkVfTUVTU0FHSU5HXD4=</entry>
-        <entry encoding="base64">XDxGRF9FTlRfU1NDXD4=</entry>
-        <entry encoding="base64">XDxGRF9TSU5HTEVfVVNFUl9NT0RFXD4=</entry>
-        <entry encoding="base64">XDxGRF9EQVRBU1RPUkVcPg==</entry>
-        <entry encoding="base64">XDxGRF9PUEFMX1NTQ19WMVw+</entry>
-        <entry encoding="base64">XDxvc1w+</entry>
-        <entry encoding="base64">XDxyb290X2ZpbGVfbmFtZVw+</entry>
-        <entry encoding="base64">XDxhc3NlcnRfbm90X2VxdWFsXD4=</entry>
-        <entry encoding="base64">XDxzaFw+</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>%s/Bollean/Boolean/g</entry>
-        <entry>q</entry>
-        <entry>%s/DITS/DETS/g</entry>
-        <entry>sp</entry>
-        <entry>vsp</entry>
-        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -471,5 +520,8 @@
         <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
