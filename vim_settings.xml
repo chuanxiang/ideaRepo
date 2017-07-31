@@ -150,6 +150,12 @@
         <mark key="." line="51" column="11" />
         <mark key="^" line="51" column="11" />
       </file>
+      <file name="C:/workspace/project/enrichabc/src/test/java/com/enrichabc/bdd/jbehave/JBehaveTest.java" timestamp="1501462988264">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/makelodP1/makelodP1.py" timestamp="1496129235121">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -161,6 +167,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="C:/workspace/project/enrichabc/build.gradle" timestamp="1501462362607">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/workspace/pyMakelodP1_CXL3/test/bdd/features/test.feature.story" timestamp="1499829805317">
         <mark key="[" line="3" column="0" />
@@ -241,6 +253,11 @@
         <mark key="." line="39" column="75" />
         <mark key="^" line="39" column="75" />
       </file>
+      <file name="C:/workspace/project/enrichabc/src/test/resources/bdd/jbehave/stories/test.story" timestamp="1501462648022">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1501042828621">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,7 +293,12 @@
         <mark key="." line="231" column="22" />
         <mark key="^" line="235" column="7" />
       </file>
-      <file name="C:/workspace/project/enrichabc/src/test/java/com/enrichabc/bdd/steps/WebSteps.java" timestamp="1501461303121" />
+      <file name="C:/workspace/project/enrichabc/src/test/java/com/enrichabc/bdd/steps/WebSteps.java" timestamp="1501462807804">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
       <file name="C:/workspace/PyYaspp_CXL3/pylintrc" timestamp="1500858877926">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="27" column="14" />
@@ -400,14 +422,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UociwgYnl0ZXMpOgogICAgICAgIHIgPSByLmRlY29kZSgndXRmLTgnKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoMiwgaGV4KHNlbGYuY29tcHJlc3NlZF9sZW5ndGgpLCBoZXgobGVuKHNlbGYuY29tcHJlc3NlZF9kYXRhKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <text>_MULTI_IMAGE_IOECC_FW_HDR_SIGNATURE</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUFBFTkRfSU9FQ0NcPg==</text>
@@ -415,32 +437,68 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgxLCBoZXgoc2VsZi5jb21wcmVzc2VkX2xlbmd0aCksIGhleChsZW4oc2VsZi5jb21wcmVzc2VkX2RhdGEpKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoMiwgaGV4KHNlbGYuY29tcHJlc3NlZF9sZW5ndGgpLCBoZXgobGVuKHNlbGYuY29tcHJlc3NlZF9kYXRhKSkpCg==</text>
+      <register name="1" type="4">
+        <text>import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import org.openqa.selenium.By;
+
+import static com.codeborne.selenide.Selenide.*;
+import static org.hamcrest.CoreMatchers.containsString;
+import static org.junit.Assert.assertThat;
+
+public class WebSteps {
+    @Given(&quot;^I go to Wikipedia homepage$&quot;)
+    public void goToWikiPage() {
+        open(&quot;http://en.wikipedia.org/wiki/Main_Page&quot;);
+    }
+
+    @When(&quot;^I enter the value (.*) on a field named (.*)$&quot;)
+    public void enterValueOnFieldByName(String value, String fieldName) {
+        $(By.name(fieldName)).setValue(value);
+    }
+
+    @When(&quot;^I click the button (.*)$&quot;)
+    public void clickButonByName(String buttonName) {
+        $(By.name(buttonName)).click();
+    }
+
+    @Then(&quot;^the page title contains (.*)$&quot;)
+    public void pageTitleIs(String title) {
+        assertThat(title(), containsString(title));
+    }
+
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgxLCBoZXgoc2VsZi5jb21wcmVzc2VkX2xlbmd0aCksIGhleChsZW4oc2VsZi5jb21wcmVzc2VkX2RhdGEpKSkK</text>
+      <register name="2" type="4">
+        <text>public class JBehaveTest {
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoMSwgaGV4KHNlbGYuY29tcHJlc3NlZF9sZW5ndGgpLCBoZXgobGVuKHNlbGYuY29tcHJlc3NlZF9kYXRhKSkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdpdmVuIEkgZ28gdG8gV2lraXBlZGlhIGhvbWVwYWdlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuIEkgZW50ZXIgdGhlIHZhbHVlIFRlc3QtZHJpdmVuIGRldmVsb3BtZW50IG9uIGEgZmllbGQgbmFtZWQgc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBXaGVuIEkgY2xpY2sgdGhlIGJ1dHRvbiBnbwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhlbiB0aGUgcGFnZSB0aXRsZSBjb250YWlucyBUZXN0LWRyaXZlbiBkZXZlbG9wbWVudA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Scenario: scenario description
+Given a system state
+When I do something
+Then system is in a different state</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIFRlc3RCeXRlbGlzdCA9IFsweDAxLCAweDAyLCAweDAzLCAweDA0LCAweDA1LCAweDA2LCAweDA3LCAweDA4XQogICAgIyAgIFRlc3RCeXRlbGlzdCA9IFsweDI1LCAweDAwLCAweDAwLCAweDAwLCAweDJDLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDAwLCAweDBCLCAweDAwLAogICAgIyAgICAgICAgICAgICAgICAgICAweDA1LCAweDIzLCAweDg0LCAweDE0LCAweDAxLCAweDAwLCAweEZGLCAweEZGLCAweDAwLCAweDEwLCAweDAwLCAweDAwXQoKICAgIHByaW50ICIiIgogICBTZXJpYWxGbGFzaElPRUNDLnB5IAoKICAgRXhhbXBsZSB1c2FnZToKCiAgICAgIFRlc3RJbnB1dERhdGEgPSBbIiIiLAogICAgZm9yIGIgaW4gVGVzdEJ5dGVsaXN0OgogICAgICAgIHByaW50ICIweCUwMlgsIiAlIGIsCiAgICBwcmludCAiXSIKCiAgICBwcmludCAiXG4gICAgICBPdXRwdXREYXRhID0gR2VuZXJhdGVJT0VDQ0NoZWNrd29yZHMoIFRlc3RJbnB1dERhdGEgKSIKCiAgICBUZXN0Q2hlY2t3b3JkcyA9IEdlbmVyYXRlSU9FQ0NDaGVja3dvcmRzKFRlc3RCeXRlbGlzdCkKCiAgICBwcmludCAiXG4gICAgICBcIk91dHB1dERhdGEgKGNoZWNrd29yZHMpIGlzIFsiLAogICAgZm9yIGIgaW4gVGVzdENoZWNrd29yZHM6CiAgICAgICAgcHJpbnQgIjB4JTAyWCwiICUgYiwKICAgIHByaW50ICJdXCIi</text>
+        <text>task testCucumber(type: Test) {
+    include '**/CucumberTest*'
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJZiBJT0VDQyB0byBiZSBhcHBlbmRlZCwgY2FsY3VsYXRlIElPRUNDIGZvciBzZWN0aW9uIGRhdGEgYW5kIGFwcGVuZCBpdCBhZnRlciBkYXRhLgogICAgICAgICAgICBpZiBzZWxmLmFwcGVuZF9pb2VjYzoKICAgICAgICAgICAgICAgIGRhdGFfaW9lY2MgPSBnZW5lcmF0ZV9pb2VjY19mcm9tX3N0cmluZyhzZWxmLmRhdGFbOnNlbGYubGVuZ3RoXSkKICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IF9tZW1jcHkoc2VsZi5kYXRhLCBkYXRhX2lvZWNjLCBsZW4oZGF0YV9pb2VjYyksIHNlbGYubGVuZ3RoKQogICAgICAgICAgICAgICAgc2VsZi5sZW5ndGggKz0gbGVuKGRhdGFfaW9lY2MpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoMiwgaGV4KHNlbGYuY29tcHJlc3NlZF9sZW5ndGgpLCBoZXgobGVuKHNlbGYuY29tcHJlc3NlZF9kYXRhKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJZiBhIENSQyBpcyB0byBiZSBhcHBlbmRlZCwgdGhlbiBjYWxjdWxhdGUgaXQgYW5kIGFkZCA0IGJ5dGVzIHRvIHRoZSBkYXRhCiAgICAgICAgICAgICMgcGF5bG9hZCBmb3IgdGhlIHZhbHVlIHRoYXQgbWFrZXMgdGhlIENSQyBjb21lIG91dCB0byB6ZXJvLgogICAgICAgICAgICBpZiBzZWxmLmFwcGVuZF9jcmM6CiAgICAgICAgICAgICAgICAjIEl0J3MgYmlnIGVuZGlhbiBhcyBzaG93IGluIENSQ0Jsb2NrCiAgICAgICAgICAgICAgICBjcmMsIGVyciA9IGNyY19ibG9jayhzZWxmLmRhdGEsIHNlbGYubGVuZ3RoKQogICAgICAgICAgICAgICAgaWYgZXJyOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBlcnIKCiAgICAgICAgICAgICAgICBzZWxmLmRhdGEgPSBfbWVtY3B5KHNlbGYuZGF0YSwgd29yZDJzdHIoY3JjKVs6Oi0xXSwgMiwgc2VsZi5sZW5ndGgpCiAgICAgICAgICAgICAgICBzZWxmLmxlbmd0aCArPSA0CgogICAgICAgICAgICAjIElmIElPRUNDIHRvIGJlIGFwcGVuZGVkLCBjYWxjdWxhdGUgSU9FQ0MgZm9yIHNlY3Rpb24gZGF0YSBhbmQgYXBwZW5kIGl0IGFmdGVyIGRhdGEuCiAgICAgICAgICAgIGlmIHNlbGYuYXBwZW5kX2lvZWNjOgogICAgICAgICAgICAgICAgZGF0YV9pb2VjYyA9IGdlbmVyYXRlX2lvZWNjX2Zyb21fc3RyaW5nKHNlbGYuZGF0YVs6c2VsZi5sZW5ndGhdKQogICAgICAgICAgICAgICAgc2VsZi5kYXRhID0gX21lbWNweShzZWxmLmRhdGEsIGRhdGFfaW9lY2MsIGxlbihkYXRhX2lvZWNjKSwgc2VsZi5sZW5ndGgpCiAgICAgICAgICAgICAgICBzZWxmLmxlbmd0aCArPSBsZW4oZGF0YV9pb2VjYykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgxLCBoZXgoc2VsZi5jb21wcmVzc2VkX2xlbmd0aCksIGhleChsZW4oc2VsZi5jb21wcmVzc2VkX2RhdGEpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInNlY3Rpb246bGVuZ3RoKCVkKSxkZXN0X2FkZHIoJWQpLHN5bS5hZGRyZXNzKCVkKSxvZmZzZXQoJWQpIiAlIChzZWN0aW9uLmxlbmd0aCwgc2VjdGlvbi5kZXN0aW5hdGlvbl9hZGRyZXNzLCBzeW0uYWRkcmVzcywgb2Zmc2V0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoMSwgaGV4KHNlbGYuY29tcHJlc3NlZF9sZW5ndGgpLCBoZXgobGVuKHNlbGYuY29tcHJlc3NlZF9kYXRhKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlcy5yZXNldCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
